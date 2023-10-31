@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @accyln
 - 👀 I’m interested in Development / Devops
-- 🌱 I’m currently learning MicroServices
+- 🌱 I’m currently learning MicroServices, Event-Driven architectures and Cloud environment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ahmetcanceylan@gmail.com
 
